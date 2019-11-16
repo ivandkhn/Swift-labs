@@ -2,6 +2,6 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='LX'/>
-        <page name='L1 - fibonacci'/>
+        <page name='L1 - Fibonacci'/>
     </pages>
 </playground>
