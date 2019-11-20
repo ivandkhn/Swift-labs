@@ -3,5 +3,6 @@
     <pages>
         <page name='LX'/>
         <page name='L1 - Fibonacci'/>
+        <page name='L2 - Emoji sentence'/>
     </pages>
 </playground>
