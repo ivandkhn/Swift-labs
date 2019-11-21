@@ -1,3 +1,9 @@
+//
+//  Created by Иван Дахненко on 21.11.2019.
+//  Copyright © 2019 Ivan Dakhnenko. All rights reserved.
+//  Original emoji list is taken from GitHub at gemoji/db/emoji.json
+//
+
 import Foundation
 
 public class EmojiList {
