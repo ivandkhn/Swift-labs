@@ -3,6 +3,7 @@
     <pages>
         <page name='LX'/>
         <page name='L1 - Fibonacci'/>
-        <page name='L2 - Emoji sentence'/>
+        <page name='L2.1 - Emoji sentence'/>
+        <page name='L2.2 - Default value'/>
     </pages>
 </playground>
